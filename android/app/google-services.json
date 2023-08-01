@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "894502822742",
+    "project_id": "remindme-6f6a3",
+    "storage_bucket": "remindme-6f6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894502822742:android:f49db8d0b944fc87776cf7",
+        "android_client_info": {
+          "package_name": "com.easyCoder.remindme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894502822742-s1fp41k0foi7f1nmjtpa70btqto2acrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyCoder.remindme",
+            "certificate_hash": "4258b18a33654510665907005fdb3a44250c8fa1"
+          }
+        },
+        {
+          "client_id": "894502822742-4ugb4hqk5r7k69dlrj456us7k2okrmk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATi8Hn6ktp4zdk5HQYAHTGHz-TezfnZ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894502822742-4ugb4hqk5r7k69dlrj456us7k2okrmk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894502822742-jad9m7hkvik4buq2r0hrhjgf0qrgos4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificationApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894502822742:android:36459c70f6678f84776cf7",
+        "android_client_info": {
+          "package_name": "com.example.notification_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894502822742-4ugb4hqk5r7k69dlrj456us7k2okrmk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATi8Hn6ktp4zdk5HQYAHTGHz-TezfnZ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894502822742-4ugb4hqk5r7k69dlrj456us7k2okrmk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894502822742-jad9m7hkvik4buq2r0hrhjgf0qrgos4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notificationApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
